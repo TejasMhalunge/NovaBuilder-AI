@@ -541,3 +541,23 @@ NovaBuilder-AI/
 - Open Source Friendly
 
 ---
+---
+
+# 🧠 AI Agents
+
+NovaBuilder AI is powered by multiple specialized AI agents working together.
+
+| Agent | Responsibility |
+|--------|---------------|
+| 🏗 Architect Agent | Understands user requirements and creates system architecture |
+| 🎨 UI Agent | Designs responsive UI and component layouts |
+| 💻 Frontend Agent | Generates React / Next.js frontend |
+| ⚙ Backend Agent | Builds APIs, business logic and services |
+| 🗄 Database Agent | Designs schemas, migrations and relationships |
+| 🔐 Security Agent | Authentication, authorization and security rules |
+| 🤖 AI Agent | Integrates AI features and workflows |
+| 🧪 Testing Agent | Creates unit, integration and E2E tests |
+| 📖 Documentation Agent | Generates technical documentation |
+| 🚀 Deployment Agent | Deploys applications to cloud providers |
+
+Every generated application is reviewed and improved collaboratively by these agents before delivery.
