@@ -1389,3 +1389,138 @@ If you find NovaBuilder AI useful:
 Together we can build the future of AI-powered software engineering.
 
 ---
+---
+
+# ❓ Frequently Asked Questions
+
+## Is NovaBuilder AI open source?
+
+Yes. NovaBuilder AI is being developed as an open-source AI Software Engineering Platform. Some enterprise capabilities may be offered under commercial licensing in the future.
+
+---
+
+## Which AI models are supported?
+
+Current and planned integrations include:
+
+- Google Gemini
+- OpenAI
+- Anthropic Claude
+- OpenRouter
+- Local LLMs
+
+---
+
+## Which frameworks are supported?
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+Future roadmap includes additional frameworks and languages.
+
+---
+
+## Can NovaBuilder AI generate complete applications?
+
+The vision of NovaBuilder AI is to assist in generating production-ready software by combining planning, architecture, code generation, testing, documentation, and deployment workflows.
+
+---
+
+## Can I contribute?
+
+Absolutely!
+
+We welcome developers, designers, researchers, students, and open-source contributors from around the world.
+
+---
+
+# 🛡 Security
+
+Security is a core design principle.
+
+NovaBuilder AI aims to follow secure software engineering practices including:
+
+- Secure Authentication
+- Role-Based Access Control
+- Environment Variable Protection
+- Secure API Design
+- Dependency Monitoring
+- Code Quality Reviews
+- Security Scanning
+
+If you discover a security issue, please report it responsibly through GitHub Issues or future security channels.
+
+---
+
+# 🙏 Acknowledgements
+
+NovaBuilder AI is inspired by the broader open-source software ecosystem and modern web development practices.
+
+We appreciate the tools, frameworks, and communities that help developers build better software.
+
+Special thanks to everyone who contributes ideas, documentation, testing, bug reports, and code.
+
+---
+
+# 🌎 Long-Term Vision
+
+NovaBuilder AI aims to become an intelligent software engineering platform that helps individuals and teams transform ideas into reliable applications.
+
+Our long-term direction includes:
+
+- AI-Assisted Software Architecture
+- Multi-Agent Collaboration
+- Intelligent Project Planning
+- Automated Testing Assistance
+- Deployment Automation
+- Developer Productivity Tools
+- Enterprise Collaboration Features
+- Plugin Ecosystem
+- Template Marketplace
+- AI Knowledge Management
+
+Our goal is to make modern software development more accessible while keeping developers in control of their applications.
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+See the LICENSE file for more information.
+
+---
+
+# ⭐ Support NovaBuilder AI
+
+If you like this project:
+
+⭐ Star this repository
+
+🍴 Fork the repository
+
+💡 Share ideas
+
+🐞 Report bugs
+
+🚀 Contribute improvements
+
+Every contribution helps make NovaBuilder AI better.
+
+---
+
+<div align="center">
+
+# 🚀 NovaBuilder AI
+
+### Build Production-Ready Software with Artificial Intelligence.
+
+**Designed for developers, startups, enterprises, researchers, and innovators.**
+
+Made with ❤️ by the NovaBuilder AI Community.
+
+© 2026 NovaBuilder AI. All Rights Reserved.
+
+</div>
