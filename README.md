@@ -393,3 +393,151 @@ NovaBuilder AI integrates with modern developer tools.
 ## 🎯 Goal
 
 Our mission is to build the world's most intelligent AI software engineering platform that helps anyone transform ideas into production-ready software with speed, quality, and confidence.
+---
+
+# 🏗 System Architecture
+
+NovaBuilder AI follows a modular, scalable and enterprise-ready architecture.
+
+```
+                    +-----------------------+
+                    |      User Prompt      |
+                    +-----------+-----------+
+                                |
+                                v
+                   +------------------------+
+                   |    AI Orchestrator     |
+                   +-----------+------------+
+                               |
+        ---------------------------------------------------
+        |         |         |         |          |         |
+        v         v         v         v          v         v
+ Product   Architect   UI Agent   Backend   Database   DevOps
+ Manager                            Agent      Agent     Agent
+        \         |         |         |          |       /
+         \--------+---------+---------+----------+------/
+                          |
+                          v
+                 Code Generation Engine
+                          |
+                          v
+              Frontend + Backend + Database
+                          |
+                          v
+                    Live Preview Engine
+                          |
+                          v
+                 GitHub + Cloud Deployment
+```
+
+---
+
+# 🛠 Technology Stack
+
+## Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Framer Motion
+
+## Backend
+
+- Node.js
+- Next.js API Routes
+- Express.js
+- Server Actions
+
+## Database
+
+- PostgreSQL
+- Supabase
+- Prisma ORM
+
+## Artificial Intelligence
+
+- Gemini API
+- OpenAI API
+- Anthropic Claude
+- OpenRouter
+- Local LLM Support (Future)
+
+## Development
+
+- Monaco Editor
+- Sandpack
+- ESLint
+- Prettier
+- GitHub API
+
+## Deployment
+
+- Vercel
+- Netlify
+- Docker
+- AWS
+- Azure
+- Google Cloud
+
+---
+
+# 📂 Project Structure
+
+```
+NovaBuilder-AI/
+
+├── app/
+├── components/
+├── features/
+├── lib/
+├── services/
+├── ai/
+├── agents/
+├── prompts/
+├── database/
+├── api/
+├── hooks/
+├── utils/
+├── public/
+├── docs/
+├── tests/
+├── scripts/
+├── types/
+└── README.md
+```
+
+---
+
+# 🔄 AI Workflow
+
+1. User enters prompt
+2. AI analyzes requirements
+3. AI creates project plan
+4. AI designs architecture
+5. AI generates UI
+6. AI builds backend
+7. AI designs database
+8. AI writes APIs
+9. AI creates authentication
+10. AI generates documentation
+11. AI performs testing
+12. AI deploys application
+
+---
+
+# 🎯 Development Principles
+
+- Clean Architecture
+- Modular Design
+- Component Reusability
+- Secure by Default
+- Performance First
+- AI-First Development
+- Accessibility
+- Scalable Infrastructure
+- Enterprise Standards
+- Open Source Friendly
+
+---
