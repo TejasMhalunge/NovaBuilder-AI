@@ -1222,3 +1222,170 @@ NovaBuilder AI aims to provide powerful AI-assisted software engineering while g
 We welcome community contributions, feedback, and collaboration to help shape the future of AI-powered software development.
 
 ---
+---
+
+# 🚀 Quick Start
+
+Follow these steps to get NovaBuilder AI running locally.
+
+## Prerequisites
+
+Before getting started, ensure the following tools are installed:
+
+- Node.js 20+
+- npm / pnpm / yarn
+- Git
+- Supabase Account
+- GitHub Account
+
+---
+
+## Clone Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/NovaBuilder-AI.git
+```
+
+```bash
+cd NovaBuilder-AI
+```
+
+---
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## Configure Environment Variables
+
+Create a `.env.local` file.
+
+```env
+NEXT_PUBLIC_SUPABASE_URL=
+
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+
+OPENAI_API_KEY=
+
+GEMINI_API_KEY=
+
+GITHUB_TOKEN=
+```
+
+---
+
+## Start Development Server
+
+```bash
+npm run dev
+```
+
+Open:
+
+```
+http://localhost:3000
+```
+
+---
+
+# 📂 Repository Structure
+
+```
+NovaBuilder-AI
+│
+├── app/
+├── components/
+├── features/
+├── agents/
+├── ai/
+├── database/
+├── api/
+├── services/
+├── lib/
+├── hooks/
+├── utils/
+├── public/
+├── docs/
+├── tests/
+├── scripts/
+├── types/
+├── middleware.ts
+├── package.json
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 🤝 Contributing
+
+We welcome developers, designers, researchers, and AI enthusiasts from around the world.
+
+Ways to contribute:
+
+- Report bugs
+- Suggest features
+- Improve documentation
+- Submit pull requests
+- Build plugins
+- Create templates
+- Improve AI prompts
+- Optimize performance
+
+Every contribution helps improve NovaBuilder AI.
+
+---
+
+# 🧪 Development Guidelines
+
+We follow modern software engineering best practices.
+
+- Clean Code
+- Modular Architecture
+- Secure Development
+- Performance Optimization
+- Accessibility Standards
+- Responsive Design
+- Comprehensive Testing
+- Continuous Integration
+
+---
+
+# 📚 Documentation
+
+Detailed documentation is available inside the `docs/` directory.
+
+Documentation includes:
+
+- Architecture
+- AI Agents
+- Database Design
+- API Reference
+- Deployment Guide
+- Security Guidelines
+- Developer Guide
+- Roadmap
+
+---
+
+# ⭐ Support the Project
+
+If you find NovaBuilder AI useful:
+
+⭐ Star the repository
+
+🍴 Fork the project
+
+🐞 Report issues
+
+💡 Suggest new ideas
+
+🤝 Contribute to development
+
+Together we can build the future of AI-powered software engineering.
+
+---
